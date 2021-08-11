@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PuraanaApp</string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a item</string>
+    <string name="currency">$</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="hint_product_name">Product</string>
+    <string name="hint_provider_name">Provider</string>
+    <string name="hint_price">Price</string>
+    <string name="hint_quantity">Quantity</string>
+
+    <!-- Content description of the image -->
+    <string name="content_desc">product image</string>
+    <string name="content_desc_email">email image</string>
+    <string name="content_desc_phone">phone image</string>
+
+    <string name="category_supplier_phone">Contact no.</string>
+    <string name="action_save">Save</string>
+    <string name="make_a_phone_call">Make a phone call</string>
+    <string name="tel_colon">tel:</string>
+    <string name="permission_denied">Permission denied</string>
+
+</resources>

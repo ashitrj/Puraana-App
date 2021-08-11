@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121562945517",
+    "project_id": "puraanaapp",
+    "storage_bucket": "puraanaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121562945517:android:6cfe8c51abe71e740139e4",
+        "android_client_info": {
+          "package_name": "com.example.android.puraanaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121562945517-vd7v2rvif7joft1pc9vmqfpa92v9mccl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0eydnNvSgtIBXL6wR6SWLvnp-QYXzV0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121562945517-vd7v2rvif7joft1pc9vmqfpa92v9mccl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
